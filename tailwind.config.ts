@@ -7,7 +7,22 @@ export default {
     "./app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        "bg/gray": "#F9FAFF",
+        "bg/line": "#25282B",
+        "gray-1": "#333333",
+        "gray-3": "#828282",
+        brand: "#FDC435",
+      },
+      fontFamily: {
+        roboto: ["var(--font-roboto)"],
+        PD: ["var(--font-PD)"],
+        nunito: ["var(--font-nunito)"],
+        comfortaa: ["var(--font-comfortaa)"],
+        raleway: ["var(--font-raleway)"],
+      },
+    },
   },
   plugins: [],
 } satisfies Config;

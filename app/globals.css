@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+svg {
+  position: absolute;
+  right: 0;
+  z-index: -1;
+}
