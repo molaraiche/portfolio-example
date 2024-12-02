@@ -7,7 +7,7 @@ import { CgMenuLeft } from "react-icons/cg";
 import { IoMdClose } from "react-icons/io";
 
 const Navbar = () => {
-  const [menuToggle, setMenuToggle] = useState(false);
+  const [menuToggle, setMenuToggle] = useState(true);
   const menuHandler = () => {
     console.log(menuToggle);
     setMenuToggle(!menuToggle);
@@ -20,7 +20,7 @@ const Navbar = () => {
           <div className='flex items-center justify-center'>
             <Link
               href='/'
-              className='text-lg text-bg/line font-bold font-comfortaa '>
+              className='text-lg text-bg/line font-extrabold font-comfortaa '>
               Madelyn Torff
             </Link>
           </div>
