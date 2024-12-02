@@ -47,7 +47,7 @@ export default function RootLayout({
   return (
     <html lang='en'>
       <body
-        className={`${roboto.variable} ${PD.variable} ${nunito.variable} ${comfortaa.variable} ${raleway.variable}  antialiased`}>
+        className={`${roboto.variable} ${PD.variable} ${nunito.variable} ${comfortaa.variable} ${raleway.variable} bg-bg/gray antialiased`}>
         <svg
           xmlns='http://www.w3.org/2000/svg'
           width='720'
