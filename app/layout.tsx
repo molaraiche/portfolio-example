@@ -50,6 +50,7 @@ export default function RootLayout({
       <body
         className={`${roboto.variable} ${PD.variable} ${nunito.variable} ${comfortaa.variable} ${raleway.variable} bg-bg/gray antialiased`}>
         <svg
+          className='yellow'
           xmlns='http://www.w3.org/2000/svg'
           width='720'
           height='629'

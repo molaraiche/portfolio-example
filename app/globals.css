@@ -2,17 +2,18 @@
 @tailwind components;
 @tailwind utilities;
 
-svg {
+.yellow {
   position: absolute;
   right: 0;
   z-index: -1;
 }
-html,body{
+html,
+body {
   scroll-behavior: smooth;
 }
 
-@layer utilities{
-  .form-grp{
-    @apply flex flex-col  my-3.5
+@layer utilities {
+  .form-grp {
+    @apply flex flex-col  my-3.5;
   }
 }
