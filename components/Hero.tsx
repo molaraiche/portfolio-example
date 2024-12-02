@@ -3,7 +3,7 @@ import React from "react";
 
 const Hero = () => {
   return (
-    <section className='lg:container lg:mx-auto py-2 md:px-14 sm:px-10 xsm:px-4 flex items-center justify-between h-[60vh] flex-wrap'>
+    <section className='lg:container lg:mx-auto py-2 md:px-14 sm:px-10 xsm:px-4 flex items-center justify-between h-[65vh] flex-wrap lg:mb-7 md:mb-20 sm:mb-56 xsm:mb-[500px]'>
       <div className='2xl:w-[786px] xl:w-[486px] h-[369px] px-4'>
         <p className='lg:text-brand text-gray-1 text-xl font-bold uppercase font-nunito leading-normal '>
           UI/UX Designer

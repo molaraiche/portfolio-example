@@ -22,6 +22,9 @@ export default {
         comfortaa: ["var(--font-comfortaa)"],
         raleway: ["var(--font-raleway)"],
       },
+      screens: {
+        xsm: "285px",
+      },
     },
   },
   plugins: [],
