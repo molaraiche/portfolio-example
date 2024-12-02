@@ -1,36 +1,47 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# PORTFOLIO - A Modern Portfolio Website
 
-## Getting Started
+## 🌐 Demo
 
-First, run the development server:
+Experience it live: [Portfolio Demo](https://portfolio.molaraiche.com/)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 📝 Description
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This project is an example of a modern, fully custom portfolio included in the **Portfolio Pack**. With this pack, you get a seamless website designed using the latest technologies, built for performance, responsiveness, and a smooth user experience. The website is powered by a robust MERN stack backend and includes a feature-rich dashboard for effortless content management.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+📩 **Contact me today to create a personalized portfolio tailored to your unique needs!**
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📖 Table of Contents
 
-## Learn More
+- [Features](#-features-offered-in-the-portfolio-pack)
+- [Demo](#-demo)
+- [Portfolio](#-my-portfolio)
+- [Contact](#-contact-me)
 
-To learn more about Next.js, take a look at the following resources:
+## ✨ Features Offered in the Portfolio Pack
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **High Performance & SEO Optimization**  
+  Designed to load quickly and rank higher on search engines.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- **Admin Dashboard**  
+  Manage projects, blogs, and more with an intuitive dashboard.
 
-## Deploy on Vercel
+- **Integrated Contact Form**  
+  All inquiries are securely stored in your website’s inbox, fully connected to the database.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **Comprehensive Tutorial**  
+  Includes step-by-step instructions to help you manage and use your website.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **60 Days Free Support**  
+  Enjoy two months of complimentary technical support for peace of mind.
+
+## 🌟 My Portfolio
+
+Explore more of my work: [Mohamed Laraiche Portfolio](https://www.molaraiche.com/)
+
+## 📞 Contact Me
+
+Stay connected and reach out through my social platforms:
+
+[![Follow me on Twitter](https://img.shields.io/twitter/follow/molaraiche.svg?style=social)](https://twitter.com/intent/follow?screen_name=molaraiche)  
+[![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-mohamedlaraiche-blue?style=flat&logo=linkedin&logoColor=b0c0c0&labelColor=363D44)](https://www.linkedin.com/company/mohamedlaraiche)  
+[![Follow me on Instagram](https://img.shields.io/badge/Instagram-molaraiche-grey?style=flat&logo=instagram&logoColor=b0c0c0&labelColor=8134af)](https://www.instagram.com/molaraiche)
