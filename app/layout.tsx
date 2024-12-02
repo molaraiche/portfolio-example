@@ -37,6 +37,7 @@ export const metadata: Metadata = {
   title: "Portfolio | molaraiche",
   description:
     "this is a work example for portfolio can provided by the developer molaraiche",
+  viewport: "width=device-width, initial-scale=1.0",
 };
 
 export default function RootLayout({
